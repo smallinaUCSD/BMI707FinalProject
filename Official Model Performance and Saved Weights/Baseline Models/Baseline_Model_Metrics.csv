@@ -1,0 +1,4 @@
+Model,Train RMSE,Test RMSE,Train R²,Test R²,Test Pearson,Test Spearman
+Dummy (Mean),1.81409,1.849444,0.0,-0.001547,,
+Linear Regression,1.720332,1.750026,0.100695,0.103236,0.323238,0.263974
+Gradient Boosted Trees,1.504426,1.626499,0.31226,0.225366,0.475226,0.425351
